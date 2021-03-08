@@ -71,7 +71,7 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-          label: "English",
+          label: "English Chat",
           href: "http://t.me/deflatechat",
       },
       {
